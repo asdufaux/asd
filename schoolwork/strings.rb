@@ -14,3 +14,10 @@ puts most_words
 # puts most_words - words
 puts words.capitalize!
 puts words
+
+puts "this is the variable words: #{words}"
+
+puts "this is math: #{10.0/4.0}"
+
+puts words + 1.to_s
+puts 1 + "1".to_i
