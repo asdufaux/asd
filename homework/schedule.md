@@ -17,10 +17,6 @@
 
 ##Day 2
 ###Do this first:
-
-###Do at least 1 of these:
-####(or both if you feel like it)
-- Learn Ruby the Hard Way, Exercises 9, 13, 28-32
-
-###Do all of these
-
+-Read Learn to Program Ch.8-9
+- Learn Ruby the Hard Way, Exercises 7-10, 13
+-Google and read up on classes. What are they used for?
