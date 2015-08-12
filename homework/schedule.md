@@ -14,3 +14,13 @@
   - Know what they do and what they're for.
   - Learn some built-in ruby methods ([look here](http://ruby-doc.com/))
   - (Google is your friend)
+
+##Day 2
+###Do this first:
+
+###Do at least 1 of these:
+####(or both if you feel like it)
+- Learn Ruby the Hard Way, Exercises 9, 13, 28-32
+
+###Do all of these
+
