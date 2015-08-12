@@ -56,8 +56,27 @@ def find_person(person_name, name_array)
 		end
 	end
 end
-find_person("joe",name_array)
-find_person("seamas", friends_array)
+# find_person("joe",name_array)
+# find_person("seamas", friends_array)
+
+# p friends_array[0].split(//).sort.join
+
+alphabet = ("a".."z").to_a.shuffle
+
+p alphabet
+
+
+def alphabet_fixer(alphabet)
+	p alphabet.sort {|a,b| b <=> a}
+end
+
+alphabet_fixer(alphabet)
+
+
+
+
+
+
 
 
 
