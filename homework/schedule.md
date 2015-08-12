@@ -14,3 +14,9 @@
   - Know what they do and what they're for.
   - Learn some built-in ruby methods ([look here](http://ruby-doc.com/))
   - (Google is your friend)
+
+##Day 2
+###Do this first:
+-Read Learn to Program Ch.8-9
+- Learn Ruby the Hard Way, Exercises 7-10, 13
+-Google and read up on classes. What are they used for?
