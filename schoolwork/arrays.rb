@@ -51,7 +51,7 @@ def find_person(person_name, name_array)
 		if name == person_name
 			puts "found #{person_name}"
 			break
-		else 
+		else
 			puts "#{person_name} not found"
 		end
 	end
