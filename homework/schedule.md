@@ -16,7 +16,16 @@
   - (Google is your friend)
 
 ##Day 2
-###Do this first:
--Read Learn to Program Ch.8-9
+###Read:
+- Learn to Program Ch.8-9
+
+###Do:
 - Learn Ruby the Hard Way, Exercises 7-10, 13
 -Google and read up on classes. What are they used for?
+
+#Day 3
+###Read:
+- Learn to Program Ch.13
+
+###Do:
+- Learn Ruby the Hard Way, Exercise 18-19 (Look at and do the extra credit for each)
