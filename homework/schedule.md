@@ -23,7 +23,7 @@
 - Learn Ruby the Hard Way, Exercises 7-10, 13
 -Google and read up on classes. What are they used for?
 
-#Day 3
+#Day 3 && 4
 ###Read:
 - Learn to Program Ch.13
 
