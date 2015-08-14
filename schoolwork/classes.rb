@@ -5,6 +5,10 @@ class Person
 		@has_eaten = false
 	end
 
+	def name
+		@name
+	end
+
 	def say_hi
 		puts "hi, my name is #{@name}"
 
