@@ -25,21 +25,31 @@ class OrangeTree
 	def is_dead
 		puts "One of your trees has died"
 		check_orange_tree
-		calculate_oranges
+		show_orange_calculations
 	end
 
-	def calculate_oranges
+	def calculate_diameters
 		total_diameters = 0
 		@branches.each do |orange|
-			p total_diameters
-			p orange.give_diameter
 			total_diameters += orange.give_diameter
 		end
-
+		return total_diameters
+	end
+	
+	def calculate_seeds
 		total_seeds = 0
 		@branches.each do |orange|
 			total_seeds += orange.seed_count
 		end
+		return total_seeds
+	end
+
+
+	def show_orange_calculations
+		
+
+		puts "total orange diameter: #{calculate_diameters} inches"
+		puts "total orange seeds: #{calculate_seeds}"
 	end
 
 	def check_orange_tree
@@ -55,10 +65,9 @@ end
 
 
 class Orange
-	attr_reader :diameter
-	def initalize
+	def initialize
 		@seeds = rand(0..9)
-		@diameter = 1
+		@diameter = rand(2..21)
 	end
 
 	def seed_count
