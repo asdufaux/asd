@@ -12,24 +12,49 @@ class OrangeTree
     end
   end
 
-  def is_dead?
+  def alive?
+    @alive
+  end
+
+  def dead?
     if @height > 120 || @branches.length > 21
       @alive = false
     end
   end
 
   def is_dead
-      puts "One of your trees has died."
-      check_orange_tree
+    puts "One of your trees has died."
+    check_orange_tree
+    show_orange_calculations
   end
 
-  def alive?
-    @alive
+  def calculate_diameters
+    total_diameters = 0
+    @branches.each do |orange|
+      total_diameters += orange.give_diameter
+    end
+    return total_diameters
   end
+
+  def calculate_seeds
+    total_seeds = 0
+    @branches.each do |orange|
+      total_seeds += orange.seed_count
+    end
+    return total_seeds
+  end
+
+  def show_orange_calculations
+    puts "Total Orange Diameter: #{calculate_diameters} inches"
+    puts "Total Orange Seeds: #{calculate_seeds}"
+  end
+
+
 
   def check_orange_tree
     puts "."*30
     puts "Orange Tree Health: \n\n"
+    puts "Alive? #{@alive}"
     puts "Height: #{@height} inches"
     puts "Number of Oranges: #{@branches.length} \n"
     puts "."*30
@@ -42,6 +67,14 @@ class Orange
     @seeds = rand(0..9)
     @diameter = rand(2..21)
   end
+
+  def seed_count
+    @seeds
+  end
+
+  def give_diameter
+    return 1
+  end
 end
 
 orange_tree = OrangeTree.new
@@ -49,7 +82,7 @@ orange_tree = OrangeTree.new
 until orange_tree.alive? == false do
   orange_tree.grow!
   orange_tree.check_orange_tree
-  orange_tree.is_dead?
+  orange_tree.dead?
 end
 
 orange_tree.is_dead
