@@ -40,7 +40,10 @@
 - Have fun. Build something you might find useful.
 
 ###Git
+#####Read:
 - Review the [Git Cheatsheet](https://scotch.io/bar-talk/git-cheat-sheet): What do you recognize? What don't you?
+
+#####Do:
 - Research git branches. What do you use them for? How do you make and use a new branch?
   - Once you think you understand git branches, go to your github repository in your terminal and try to make a new branch.
   - Make some insignificant changes to your new branch.
@@ -65,6 +68,9 @@
   - using the terminal, you must be able to **delete** existing notes
 
 ###HTML && CSS
+#####Read:
+
+#####Do:
 - Do [this](https://www.codecademy.com/en/skills/make-a-website) Codecademy lesson on HTML and CSS.
 - Next, create your own [Github Page]
 (https://pages.github.com/)
