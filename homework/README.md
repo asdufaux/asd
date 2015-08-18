@@ -59,3 +59,14 @@
   - Make a cool entrance page ("index.html"), an "About Me", and a "Favorite Links" page.
 - Just a note: CSS can be incredibly frustrating. It wasn't designed for modern websites. It was designed to format text documents (which is what the internet was for a while). But it is the standard.
   - It's easier to use what we have at the moment than to tear it apart and start fresh. It's like tearing up old roads to build all new ones.
+
+###Typing && Terminal
+- Typing and using the terminal is very important, keep going through the [The Command Line Crash Course](http://cli.learncodethehardway.org/book/), what do you think you'll use?
+- [Sublime Shortcuts](http://www.cheatography.com/martinprins/cheat-sheets/sublime-text-3-osx/)
+  - This will speed up your workflow. Get used to not using the mouse. Best advice is force yourself to run a lap, do push ups, or  put money in a jar every time you touch the trackpad.
+
+###Miscellaneous
+####This stuff isn't terribly important, but still fun to know
+- Markdown! Markdown is useful when displaying docs or writing things for Github. It's what this page is written in! Some web platforms like Jekyll use them to display their content.
+  - [Basic Tutorial](http://markdowntutorial.com/)
+
