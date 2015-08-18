@@ -29,3 +29,7 @@
 
 ###Do:
 - Learn Ruby the Hard Way, Exercise 18-19 (Look at and do the extra credit for each)
+
+#Going onward
+###Git
+-Review the [Git Cheatsheet](https://scotch.io/bar-talk/git-cheat-sheet): What do you recognize? What don't you?
