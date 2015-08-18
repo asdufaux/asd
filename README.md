@@ -1,4 +1,6 @@
-# Aidan's Homework
+#Learning to Program
+![tandykids](http://a.images.blip.tv/Linkara-TandyComputerWhizKidsADeadlyChoice876-861.jpg)
+##[Aidan's Homework](https://github.com/asdufaux/asd/blob/master/homework/schedule.md)
 ###Cool Links!
 - [Different Sorts of Sorts! (video)](https://www.youtube.com/watch?v=kPRA0W1kECg 'video of differenet types of sorts')
 
