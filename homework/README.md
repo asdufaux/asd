@@ -32,6 +32,8 @@
 
 #Going onward
 ##Remember:
+- ["[F]ailure [is] not...evidence of unintelligence but...a heartening springboard for growth and for stretching our existing abilities"](http://www.brainpickings.org/2014/01/29/carol-dweck-mindset/)
+  - the sheer act of recognizing that skill and knowledge can be cultivated, rather than are fixed to someone's "talent" makes you better at learning.
 - _Persistence_ is the _most_ important skill a programmer can have. Talent means nothing around hour 3 of trying to find a bug.
 - A lot of this material is about what _you_ choose to learn and how to learn it.
   - This is one of the hardest things to do, because you have to assess what you **actually** know vs. what you think you know.
