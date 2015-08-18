@@ -32,4 +32,15 @@
 
 #Going onward
 ###Git
--Review the [Git Cheatsheet](https://scotch.io/bar-talk/git-cheat-sheet): What do you recognize? What don't you?
+- Review the [Git Cheatsheet](https://scotch.io/bar-talk/git-cheat-sheet): What do you recognize? What don't you?
+- Research git branches. What do you use them for? How do you make and use a new branch?
+  - Once you think you understand git branches, go to your github repository in your terminal and try to make a new branch.
+  - Make some insignificant changes to your new branch.
+  - Push up those changes to your new branch.
+  - Now look at your repo, what changed? You should see that you can make a "pull request". Google. Once you think you get it, make the pull request and merge it with your master branch.
+  - What did that do?
+
+
+###Ruby
+- Go through all of Learn Ruby the Hard Way. It may get boring at parts (especially when you make text adventures); persistence is key.
+- Read through Chris Pine's Learn to Program. He's a funny guy, and he gets a ton of concepts down well.
