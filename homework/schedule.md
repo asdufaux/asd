@@ -31,6 +31,11 @@
 - Learn Ruby the Hard Way, Exercise 18-19 (Look at and do the extra credit for each)
 
 #Going onward
+##Remember:
+- Persistence is the most important skill a programmer can have. Talent means nothing around hour 3 of trying to find a bug.
+- Getting a different error message can be progress.
+- Have fun. Build something you might find useful.
+
 ###Git
 - Review the [Git Cheatsheet](https://scotch.io/bar-talk/git-cheat-sheet): What do you recognize? What don't you?
 - Research git branches. What do you use them for? How do you make and use a new branch?
