@@ -23,7 +23,7 @@
 - Learn Ruby the Hard Way, Exercises 7-10, 13
 -Google and read up on classes. What are they used for?
 
-#Day 3 && 4
+##Day 3 && 4
 ###Read:
 - Learn to Program Ch.13
 
@@ -49,3 +49,13 @@
 ###Ruby
 - Go through all of Learn Ruby the Hard Way. It may get boring at parts (especially when you make text adventures); persistence is key.
 - Read through Chris Pine's Learn to Program. He's a funny guy, and he gets a ton of concepts down well.
+
+###HTML/CSS
+- Do [this](https://www.codecademy.com/en/skills/make-a-website) Codecademy lesson on HTML and CSS.
+- Next, create your own [Github Page]
+(https://pages.github.com/)
+- Now build a website in your Github page repo that tells us a bit about you and what you're learning!
+  - (Make sure not to put anything too personal on there. It is the internet after all.)
+  - Make a cool entrance page ("index.html"), an "About Me", and a "Favorite Links" page.
+- Just a note: CSS can be incredibly frustrating. It wasn't designed for modern websites. It was designed to format text documents (which is what the internet was for a while). But it is the standard.
+  - It's easier to use what we have at the moment than to tear it apart and start fresh. It's like tearing up old roads to build all new ones.
