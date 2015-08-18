@@ -8,4 +8,4 @@
 - [Ruby Docs](http://ruby-doc.com/)
 - [Sublime Shortcuts](http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/reference/keyboard_shortcuts_osx.html)
 - [Get Started with Git](http://skillcrush.com/2013/02/20/get-started-working-with-git/)
--[The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
+- [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
