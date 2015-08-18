@@ -32,7 +32,10 @@
 
 #Going onward
 ##Remember:
-- Persistence is the most important skill a programmer can have. Talent means nothing around hour 3 of trying to find a bug.
+- _Persistence_ is the _most_ important skill a programmer can have. Talent means nothing around hour 3 of trying to find a bug.
+- A lot of this material is about what _you_ choose to learn and how to learn it.
+  - This is one of the hardest things to do, because you have to assess what you **actually** know vs. what you think you know.
+  - It's easy to get bored and not want to go through the menial stuff. But you have to. There's so much about programming that is boring, but you can find how to make it interesting.
 - Getting a different error message can be progress.
 - Have fun. Build something you might find useful.
 
@@ -50,7 +53,7 @@
 - Go through all of Learn Ruby the Hard Way. It may get boring at parts (especially when you make text adventures); persistence is key.
 - Read through Chris Pine's Learn to Program. He's a funny guy, and he gets a ton of concepts down well.
 
-###HTML/CSS
+###HTML && CSS
 - Do [this](https://www.codecademy.com/en/skills/make-a-website) Codecademy lesson on HTML and CSS.
 - Next, create your own [Github Page]
 (https://pages.github.com/)
