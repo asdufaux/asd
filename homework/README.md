@@ -50,8 +50,19 @@
 
 
 ###Ruby
+#####Read:
 - Go through all of Learn Ruby the Hard Way. It may get boring at parts (especially when you make text adventures); persistence is key.
 - Read through Chris Pine's Learn to Program. He's a funny guy, and he gets a ton of concepts down well.
+
+#####Do:
+######CSV && Read/Write
+- Look up how to read CSV files with Ruby. How do they work?
+- Make a notes app for the terminal, which reads a 'notes.csv' file and displays them.
+  - it must read from the CSV file
+  - it must be able to write to the CSV file
+  - using the terminal, you must be able to **make** new notes.
+  - using the terminal, you must be able to **edit** existing notes
+  - using the terminal, you must be able to **delete** existing notes
 
 ###HTML && CSS
 - Do [this](https://www.codecademy.com/en/skills/make-a-website) Codecademy lesson on HTML and CSS.
