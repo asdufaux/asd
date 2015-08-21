@@ -32,12 +32,20 @@
 
 #Going onward
 ##Remember:
-- Persistence is the most important skill a programmer can have. Talent means nothing around hour 3 of trying to find a bug.
+- ["[F]ailure [is] not...evidence of unintelligence but...a heartening springboard for growth and for stretching our existing abilities"](http://www.brainpickings.org/2014/01/29/carol-dweck-mindset/)
+  - the sheer act of recognizing that skill and knowledge can be cultivated, rather than are fixed to someone's "talent" makes you better at learning.
+- _Persistence_ is the _most_ important skill a programmer can have. Talent means nothing around hour 3 of trying to find a bug.
+- A lot of this material is about what _you_ choose to learn and how to learn it.
+  - This is one of the hardest things to do, because you have to assess what you **actually** know vs. what you think you know.
+  - It's easy to get bored and not want to go through the menial stuff. But you have to. There's so much about programming that is boring, but you can find how to make it interesting.
 - Getting a different error message can be progress.
 - Have fun. Build something you might find useful.
 
 ###Git
+#####Read:
 - Review the [Git Cheatsheet](https://scotch.io/bar-talk/git-cheat-sheet): What do you recognize? What don't you?
+
+#####Do:
 - Research git branches. What do you use them for? How do you make and use a new branch?
   - Once you think you understand git branches, go to your github repository in your terminal and try to make a new branch.
   - Make some insignificant changes to your new branch.
@@ -47,10 +55,24 @@
 
 
 ###Ruby
+#####Read:
 - Go through all of Learn Ruby the Hard Way. It may get boring at parts (especially when you make text adventures); persistence is key.
 - Read through Chris Pine's Learn to Program. He's a funny guy, and he gets a ton of concepts down well.
 
-###HTML/CSS
+#####Do:
+######CSV && Read/Write
+- Look up how to read CSV files with Ruby. How do they work?
+- Make a notes app for the terminal, which reads a 'notes.csv' file and displays them.
+  - it must read from the CSV file
+  - it must be able to write to the CSV file
+  - using the terminal, you must be able to **make** new notes.
+  - using the terminal, you must be able to **edit** existing notes
+  - using the terminal, you must be able to **delete** existing notes
+
+###HTML && CSS
+#####Read:
+
+#####Do:
 - Do [this](https://www.codecademy.com/en/skills/make-a-website) Codecademy lesson on HTML and CSS.
 - Next, create your own [Github Page]
 (https://pages.github.com/)
@@ -59,3 +81,14 @@
   - Make a cool entrance page ("index.html"), an "About Me", and a "Favorite Links" page.
 - Just a note: CSS can be incredibly frustrating. It wasn't designed for modern websites. It was designed to format text documents (which is what the internet was for a while). But it is the standard.
   - It's easier to use what we have at the moment than to tear it apart and start fresh. It's like tearing up old roads to build all new ones.
+
+###Typing && Terminal
+- Typing and using the terminal is very important, keep going through the [The Command Line Crash Course](http://cli.learncodethehardway.org/book/), what do you think you'll use?
+- [Sublime Shortcuts](http://www.cheatography.com/martinprins/cheat-sheets/sublime-text-3-osx/)
+  - This will speed up your workflow. Get used to not using the mouse. Best advice is force yourself to run a lap, do push ups, or  put money in a jar every time you touch the trackpad.
+
+###Miscellaneous
+####This stuff isn't terribly important, but still fun to know
+- Markdown! Markdown is useful when displaying docs or writing things for Github. It's what this page is written in! Some web platforms like Jekyll use them to display their content.
+  - [Basic Tutorial](http://markdowntutorial.com/)
+
