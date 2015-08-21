@@ -25,4 +25,9 @@ Okay, so you have to make an app, but you want to keep track of everything, and 
 ![003](../images/github_lesson_003.png)
 - Bottom right of the image there. Notice that "HTTPS clone URL"? click on it and copy it.
 - Now go to your terminal, and use it to travel to where you want your repository to go. I keep mine in a "git" directory.
-- Now, with your link copied and in your clipboard
+- Now, with your link copied and in your clipboard, type into your terminal.
+
+      `git clone pasteyourURLhere`
+
+  "pasteyourURLhere" should be where you... paste the URL you copied.
+- Now type `ls` and see that your repo has been copied!
